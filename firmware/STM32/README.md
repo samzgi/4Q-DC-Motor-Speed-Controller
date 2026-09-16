@@ -12,5 +12,3 @@ Expected content may include:
 - Current-limit protection
 - Soft-start routine
 - OLED interface
-
-Firmware source files will be added when the final STM32 project files are organized.
