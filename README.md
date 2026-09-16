@@ -133,4 +133,4 @@ The power stage and relevant electrical behavior were investigated using **LTspi
 
 This repository documents an academic power-electronics project, including the design approach, simulation work, embedded control, and hardware implementation.
 
-> The repository is being organized to separate documentation, firmware, simulation files, and supporting project figures.
+> The repository is being organized to separate documentation, firmware, simulation, and supporting project figures.
