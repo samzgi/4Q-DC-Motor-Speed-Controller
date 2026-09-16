@@ -1,0 +1,14 @@
+# Documentation
+
+This directory contains the academic documentation for the project.
+
+## Project Report
+
+**Design of 4Q DC Motor Speed Controller**  
+Power Electronics I — Ege University
+
+The final project report should be placed here as:
+
+```text
+Project_Report_Gharehbagh_Zoghi.pdf
+```
